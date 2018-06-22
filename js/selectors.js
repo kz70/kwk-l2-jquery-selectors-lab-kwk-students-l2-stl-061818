@@ -7,5 +7,5 @@ function h1Selector () {
 }
 
 function liInOlSelector() {
-  return 
+  return $('div ol') 
 }
